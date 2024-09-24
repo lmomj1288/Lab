@@ -1,3 +1,0 @@
-DB와 live에서 추출된 Embedding Vector 저장 및 DB 저장 방법 확인함 
-DB에서 다시 불러와 사용가능한 것 확인함 
-
